@@ -36,3 +36,6 @@ Teaching Assistant
 
 June 2020 – August 2020
   * Graded student projects that analyzed different data sets using ANOVA, chi square, regression tests, etc.
+
+
+[Return to Main Page](https://liangeric.github.io)
