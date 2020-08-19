@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Industry Experience
+------
 ### [NextEra Energy](http://www.nexteraenergy.com)
 Data Science Intern
 
@@ -15,6 +16,7 @@ May 2020 - August 2020
   * Converted IBM COBOL data to CSV and decrypted EBCDIC in Python
 
 ## Research Experience
+------
 ### Department of Statistics and Data Science, Carnegie Mellon University
 Research Assistant
 
