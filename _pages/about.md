@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi! My name is Eric Liang"
+title: "Eric Liang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
