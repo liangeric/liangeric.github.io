@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi There!!"
+title: "Eric Liang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
