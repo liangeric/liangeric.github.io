@@ -35,3 +35,6 @@ GPA: 3.84/4.00, Dean’s List: High Honors
     * Matrices and Linear Transformations
     * Concepts of Mathematics
     * Multivariate Analysis
+
+
+[Return to Main Page](https://liangeric.github.io)
