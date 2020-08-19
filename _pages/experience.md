@@ -30,3 +30,5 @@ July 2019 – December 2019
   * Federally funded research that models social and biological factors in real-world contexts under conditions of alcohol use
   * Analyzed various data sets using SPSS from participants, helped run clinical trials, and led several lab meetings
 
+
+[Return to Main Page](https://liangeric.github.io)
