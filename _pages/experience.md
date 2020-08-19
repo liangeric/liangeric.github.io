@@ -5,8 +5,8 @@ permalink: /experience/
 author_profile: true
 ---
 
-### Industry Experience
-## [NextEra Energy](http://www.nexteraenergy.com)
+## Industry Experience
+### [NextEra Energy](http://www.nexteraenergy.com)
 Data Science Intern
 
 May 2020 - August 2020
@@ -14,14 +14,14 @@ May 2020 - August 2020
   * Built and deployed algorithms utilizing NLP and geolocation that matches addresses to analyze customer data
   * Converted IBM COBOL data to CSV and decrypted EBCDIC in Python
 
-### Research Experience
-## Department of Statistics and Data Science, Carnegie Mellon University
+## Research Experience
+### Department of Statistics and Data Science, Carnegie Mellon University
 Research Assistant
 
 August 2020 - Present
   * Assisted with cleaning and analyzing data from Pennsylvania Prison Society to inspect the differing levels of the prisoners’ treatment
 
-## Behavioral Health Research Laboratory, Carnegie Mellon University
+### Behavioral Health Research Laboratory, Carnegie Mellon University
 Research Assistant
 
 July 2019 – December 2019
