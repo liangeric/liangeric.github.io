@@ -5,7 +5,7 @@ permalink: /education/
 author_profile: true
 ---
 
-## Carnegie Mellon University
+### Carnegie Mellon University
 August 2018 - May 2022
 
 Bachelor of Science, Double Major in Statistics and Machine Learning, and Computer Science
