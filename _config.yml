@@ -83,7 +83,7 @@ author:
   name             : "Eric Liang"
   avatar           : "Liangprofile.jpg"
   bio              : "Carnegie Mellon 2022, Statistics and Machine Learning, Computer Science"
-  location         : "Philadelphia, Pennsylvania"
+  location         : "Pittsburgh, Pennsylvania"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "https://linkedin.com/in/liangeric321"
+  linkedin         : "liangeric321"
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -309,3 +309,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+theme: jekyll-theme-architect
