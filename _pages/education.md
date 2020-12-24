@@ -10,12 +10,13 @@ August 2018 - May 2022
 
 Bachelor of Science, Double Major in Statistics and Machine Learning, and Computer Science
 
-GPA: 3.84/4.00, Dean’s List: High Honors
+GPA: 3.82/4.00, Dean’s List: High Honors
 
 [Quantitative Social Science Scholars Honors Program](https://www.cmu.edu/dietrich/qsss/)
 
 ### Relevant Coursework
   * **Statistics and Data Science:**
+    * Advanced Methods for Data Analysis
     * Modern Regression
     * Introduction to Statistical Inference
     * Introduction to Probability Theory
@@ -25,6 +26,8 @@ GPA: 3.84/4.00, Dean’s List: High Honors
     * Methods for Statistics & Data Science
     * Applied Quantitative Social Science I & II
   * **Machine Learning:**
+    * Graduate Artificial Intelligence
+    * PhD Introduction to Machine Learning
     * Natural Language Processing
     * Introduction to Machine Learning
   * **Computer Science:**
