@@ -17,7 +17,7 @@ August 2020 - Present
 ------
 Teaching Assistant
 
-August 2019 - Present
+August 2019 - December 2020
   * Guided and taught honor students how to analyze and visualize data using R as well as the methods of empirical research 
   * Graded papers and case studies that dealt with students analyzing and interpreting public data
 
