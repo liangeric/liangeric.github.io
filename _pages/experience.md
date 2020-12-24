@@ -27,7 +27,7 @@ May 2020 - August 2020
 Research Assistant
 
 August 2020 - Present
-  * Assisted with cleaning and analyzing data from Pennsylvania Prison Society to inspect the differing levels of the prisoners’ treatment
+  * Used NLP and clustering to analyze data from Pennsylvania Prison Society, Correctional Association of New York, and John Howard Association in Illinois to develop cross-state indicators of differing levels in prison quality
 
 ### Behavioral Health Research Laboratory, Carnegie Mellon University
 Research Assistant
