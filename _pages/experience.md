@@ -7,7 +7,7 @@ author_profile: true
 
 ## Industry Experience
 ------
-### Morgan Stanley
+### [Morgan Stanley] (https://www.morganstanley.com)
 Office of COO: Data & Analytics Summer Analyst
 
 May 2021 -
