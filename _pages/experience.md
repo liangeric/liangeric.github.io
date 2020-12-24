@@ -27,7 +27,7 @@ May 2020 - August 2020
 Research Assistant
 
 August 2020 - Present
-  * Used NLP and clustering to analyze data from Pennsylvania Prison Society, Correctional Association of New York, and John Howard Association in Illinois to develop cross-state indicators of differing levels in prison quality
+  * Used NLP and clustering to analyze data from Pennsylvania Prison Society, Correctional Association of New York, and John Howard Association of Illinois to develop cross-state indicators of differing levels in prison quality
 
 ### Behavioral Health Research Laboratory, Carnegie Mellon University
 Research Assistant
