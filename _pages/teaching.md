@@ -7,7 +7,7 @@ author_profile: true
 
 ### Introduction to Machine Learning
 ------
-Teaching Assistant
+Lead Teaching Assistant
 
 August 2020 - Present
   * Taught students machine learning topics such as Decision Trees, Linear Regression, Logistic Regression, Naïve Bayes, Neural Networks, Reinforcement Learning, Deep-Q Learning, SVM, PCA, Graphical Models, Kernel Methods, Ensemble Methods, Recommender Systems (AdaBoost) and more
