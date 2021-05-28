@@ -10,7 +10,7 @@ August 2018 - May 2022
 
 Bachelor of Science, Major in Statistics and Machine Learning, Minor in Computer Science
 
-GPA: 3.82/4.00, Dean’s List: High Honors
+GPA: 3.85/4.00, Dean’s List: High Honors
 
 [Quantitative Social Science Scholars Honors Program](https://www.cmu.edu/dietrich/qsss/)
 
