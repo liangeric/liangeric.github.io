@@ -13,6 +13,14 @@ August 2019 - Present
   * In charge of leading the technology team to manage the association’s website, program necessary functions for events such as the Carnegie Mellon Venture Challenge, and market the club to potential sponsors as well as the community
   * Responsible for helping create, coordinate, and acquire funding for the Carnegie Mellon Venture Challenge competition
 
+### [Carnegie Mellon University Computer Science Academy](https://academy.cs.cmu.edu)
+------
+Machine Learning Engineer
+
+January 2021 - March 2021
+  * Used autoencoders and Siamese neural networks for dimensionality reduction on a large number of image data so that the low-dimensional intrinsic structure can be better visualized by students
+  * Responsible for helping create modules on the AI Team related to classification and regression
+
 ### [Carnegie Mellon University Pre-College](https://www.cmu.edu/pre-college/)
 ------
 Point Residential Advisor
