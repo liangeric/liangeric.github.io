@@ -11,7 +11,7 @@ author_profile: true
 Office of COO: Data & Analytics Summer Analyst
 
 May 2021 -
-  * Incoming Summer Analyst for Morgan Stanley Investment Management
+  * Summer Analyst for Morgan Stanley Investment Management
   
 ### [NextEra Energy](http://www.nexteraenergy.com)
 Data Science Intern
