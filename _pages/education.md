@@ -16,6 +16,7 @@ GPA: 3.85/4.00, Dean’s List: High Honors
 
 ### Relevant Coursework
   * **Statistics and Data Science:**
+    * Probability and Mathematical Statistics
     * Advanced Methods for Data Analysis
     * Modern Regression
     * Introduction to Statistical Inference
@@ -31,6 +32,8 @@ GPA: 3.85/4.00, Dean’s List: High Honors
     * Natural Language Processing
     * Introduction to Machine Learning
   * **Computer Science:**
+    * Introduction to Computer Systems
+    * Algorithms and Advanced Data Structures
     * Parallel and Sequential Data Structures and Algorithms
     * Principles of Functional Programming
     * Principles of Imperative Computing
