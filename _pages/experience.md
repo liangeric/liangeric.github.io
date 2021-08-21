@@ -10,7 +10,7 @@ author_profile: true
 ### [Morgan Stanley](https://www.morganstanley.com)
 Office of COO: Data & Analytics Summer Analyst
 
-May 2021 -
+May 2021 - August 2021
   * Summer Analyst for Morgan Stanley Investment Management
   
 ### [NextEra Energy](http://www.nexteraenergy.com)
