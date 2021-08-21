@@ -5,12 +5,21 @@ permalink: /teaching/
 author_profile: true
 ---
 
+### Introduction to Machine Learning (PhD)
+------
+Teaching Assistant
+
+August 2021 - Present
+  * Taught PhD students machine learning topics such as GANs, Deep-Q Learning, Duality, Rademacher Complexity, Reinforcement Learning, Kernel PCA, Random Forests, Graphical Models and more
+  * Led recitation sessions, held office hours, proctored exams, and helped grade assignments and exams
+
 ### Introduction to Machine Learning
 ------
 Lead Teaching Assistant
 
 August 2020 - Present
-  * Taught students machine learning topics such as Decision Trees, Linear Regression, Logistic Regression, Naïve Bayes, Neural Networks, Reinforcement Learning, Deep-Q Learning, SVM, PCA, Graphical Models, Kernel Methods, Ensemble Methods, Recommender Systems (AdaBoost) and more
+  * Recipient of the Machine Learning Department Teaching Assistant Award
+  * Taught undergraduate and master’s students introductory machine learning topics such as Decision Trees, Linear Regression, Logistic Regression, Naïve Bayes, Neural Networks, SVM, PCA, Kernel Methods, Ensemble Methods, Recommender Systems (AdaBoost) and more
   * Led recitation sessions, held office hours, proctored exams, and helped grade assignments and exams
 
 ### Applied Quantitative Social Science
