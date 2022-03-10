@@ -9,7 +9,7 @@ author_profile: true
 ------
 Head of Technology and Growth, Director of [CMU Venture Challenge](https://www.cmuvc.com)
 
-August 2019 - Present
+August 2019 - December 2021
   * In charge of leading the technology team to manage the association’s website, program necessary functions for events such as the Carnegie Mellon Venture Challenge, and market the club to potential sponsors as well as the community
   * Responsible for helping create, coordinate, and acquire funding for the Carnegie Mellon Venture Challenge competition
 
