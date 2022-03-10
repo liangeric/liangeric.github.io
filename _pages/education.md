@@ -34,6 +34,8 @@ GPA: 3.87/4.00, University Honors
     * Methods for Statistics & Data Science
     * Applied Quantitative Social Science I & II
   * **Machine Learning:**
+    * Probabilistic Graphical Models 
+    * Convex Optimization
     * Graduate Artificial Intelligence
     * PhD Introduction to Machine Learning
     * Natural Language Processing
