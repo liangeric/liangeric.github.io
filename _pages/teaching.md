@@ -13,6 +13,14 @@ August 2021 - Present
   * Taught PhD students machine learning topics such as GANs, Deep-Q Learning, Duality, Rademacher Complexity, Reinforcement Learning, Kernel PCA, Random Forests, Graphical Models and more
   * Led recitation sessions, held office hours, proctored exams, and helped grade assignments and exams
 
+### Programming and Data Analysis for Social Scientists
+------
+Teaching Assistant
+
+January 2022 - Present
+  * Taught students how to program and visualize data in R using packages such as tidyverse, dplyr, etc.
+  * Graded papers and case studies that dealt with students analyzing and interpreting public data
+
 ### Introduction to Machine Learning
 ------
 Lead Teaching Assistant
