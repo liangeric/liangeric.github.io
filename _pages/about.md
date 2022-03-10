@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to the front page of my website! I'm Eric Liang, a current undergraduate student at Carnegie Mellon University (Class of 2022) majoring in Statistics and Machine Learning with a minor in Computer Science. During the school year, I am in Pittsburgh, Pennsylvania, but I am originally from Philadelphia, Pennsylvania. I'm always interested in meeting new people and learning new things, so feel free to reach out on [LinkedIn](https://linkedin.com/in/liangeric321)!
+Welcome to the front page of my website! I'm Eric Liang, a fifth year master's student at Carnegie Mellon University pursuing a Master's in Machine Learning. I previously received my bachelor's in Statistics and Machine Learning with a minor in Computer Science. During the school year, I am in Pittsburgh, Pennsylvania, but I am originally from Philadelphia, Pennsylvania. I'm always interested in meeting new people and learning new things, so feel free to reach out on [LinkedIn](https://linkedin.com/in/liangeric321)!
 
 Click here to learn more about my:
   * [Education and Coursework](https://liangeric.github.io/education/)
