@@ -26,7 +26,7 @@ May 2020 - August 2020
 ### Department of Statistics and Data Science, Carnegie Mellon University
 Research Assistant
 
-August 2020 - Present
+August 2020 - December 2021
   * Used NLP and clustering to analyze data from Pennsylvania Prison Society, Correctional Association of New York, and John Howard Association of Illinois to develop cross-state indicators of differing levels in prison quality
 
 ### Behavioral Health Research Laboratory, Carnegie Mellon University
