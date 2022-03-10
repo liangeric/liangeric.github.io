@@ -6,11 +6,18 @@ author_profile: true
 ---
 
 ### Carnegie Mellon University
-August 2018 - May 2022
+January 2022 - December 2022
+
+Master of Science, Machine Learning
+
+GPA: 4.00/4.00
+
+### Carnegie Mellon University
+August 2018 - December 2021
 
 Bachelor of Science, Major in Statistics and Machine Learning, Minor in Computer Science
 
-GPA: 3.85/4.00, Dean’s List: High Honors
+GPA: 3.87/4.00, University Honors
 
 [Quantitative Social Science Scholars Honors Program](https://www.cmu.edu/dietrich/qsss/)
 
