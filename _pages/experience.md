@@ -23,6 +23,13 @@ May 2020 - August 2020
 
 ## Research Experience
 ------
+### Machine Learning Department, Carnegie Mellon University
+Research Assistant
+
+November 2021 - Present
+  * Researched the impact of various design choices in ML pipelines that amplify or remedy bias and fairness on downstream inequities measured through notions of predictive performance and predictive disparity
+  * Built a prototype testbed that displays the effects on bias from interactions between the construct and observed space
+
 ### Department of Statistics and Data Science, Carnegie Mellon University
 Research Assistant
 
