@@ -39,6 +39,8 @@ GPA: 3.87/4.00, University Honors
     * Graduate Artificial Intelligence
     * PhD Introduction to Machine Learning
     * Natural Language Processing
+    * Intermediate Deep Learning
+    * Machine Learning in Practice
     * Introduction to Machine Learning
   * **Computer Science:**
     * Introduction to Computer Systems
