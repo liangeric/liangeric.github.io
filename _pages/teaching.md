@@ -4,20 +4,25 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+### Machine Learning for Structured Data
+------
+Teaching Assistant
+
+August 2021 - May 2022
+  * Taught PhD students machine learning topics such as GANs, Deep-Q Learning, Duality, Rademacher Complexity, Reinforcement Learning, Kernel PCA, Random Forests, Graphical Models and more
+  * Led recitation sessions, held office hours, proctored exams, and helped grade assignments and exams
 
 ### Introduction to Machine Learning (PhD)
 ------
 Teaching Assistant
 
-August 2021 - Present
-  * Taught PhD students machine learning topics such as GANs, Deep-Q Learning, Duality, Rademacher Complexity, Reinforcement Learning, Kernel PCA, Random Forests, Graphical Models and more
-  * Led recitation sessions, held office hours, proctored exams, and helped grade assignments and exams
+August 2022 - Present
 
 ### Programming and Data Analysis for Social Scientists
 ------
 Teaching Assistant
 
-January 2022 - Present
+January 2022 - May 2022
   * Taught students how to program and visualize data in R using packages such as tidyverse, dplyr, etc.
   * Graded papers and case studies that dealt with students analyzing and interpreting public data
 
