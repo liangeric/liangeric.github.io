@@ -8,16 +8,24 @@ author_profile: true
 ## Industry Experience
 ------
 ### [Morgan Stanley](https://www.morganstanley.com)
+Quantitative Summer Analyst
+
+May 2022 - August 2022
+  * Utilized Bayesian Vector Autoregression with historical macroeconomic data to forecast quarterly Consumer Price Index values for Poland
+  * Forecast customer stock prices based on supplier environmental, social, and governance features in supply chain relationship data
+
+### [Morgan Stanley](https://www.morganstanley.com)
 Office of COO: Data & Analytics Summer Analyst
 
 May 2021 - August 2021
-  * Summer Analyst for Morgan Stanley Investment Management
+  * Used blockchain data along with market data to cluster cryptocurrencies and build time-series models for forecasting company returns
+  * Conducted A/B testing to identify the effect of alternative patent data from company portfolios on stock prices
   
 ### [NextEra Energy](http://www.nexteraenergy.com)
 Data Science Intern
 
 May 2020 - August 2020
-  * Built unsupervised models utilizing UMAP, t-SNE, DBSCAN, KNN, and K-medoids to help cluster customers using big data with both numerical and categorical features
+  * Built unsupervised models utilizing UMAP, t-SNE, DBSCAN, K-means, and K-medoids to cluster customer profiles using big data with both numerical and categorical features
   * Built and deployed algorithms utilizing NLP and geolocation that matches addresses to analyze customer data
   * Converted IBM COBOL data to CSV and decrypted EBCDIC in Python
 
