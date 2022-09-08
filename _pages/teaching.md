@@ -8,15 +8,15 @@ author_profile: true
 ------
 Teaching Assistant
 
-August 2021 - May 2022
-  * Taught PhD students machine learning topics such as GANs, Deep-Q Learning, Duality, Rademacher Complexity, Reinforcement Learning, Kernel PCA, Random Forests, Graphical Models and more
-  * Led recitation sessions, held office hours, proctored exams, and helped grade assignments and exams
+August 2022 - Present
 
 ### Introduction to Machine Learning (PhD)
 ------
 Teaching Assistant
 
-August 2022 - Present
+August 2021 - May 2022
+  * Taught PhD students machine learning topics such as GANs, Deep-Q Learning, Duality, Rademacher Complexity, Reinforcement Learning, Kernel PCA, Random Forests, Graphical Models and more
+  * Led recitation sessions, held office hours, proctored exams, and helped grade assignments and exams
 
 ### Programming and Data Analysis for Social Scientists
 ------
@@ -32,7 +32,7 @@ Lead Teaching Assistant
 
 August 2020 - May 2021
   * Recipient of the Machine Learning Department Teaching Assistant Award
-  * Taught undergraduate and master’s students introductory machine learning topics such as Decision Trees, Linear Regression, Logistic Regression, Naïve Bayes, Neural Networks, SVM, PCA, Kernel Methods, Ensemble Methods, Recommender Systems (AdaBoost) and more
+  * Taught undergraduate and master’s students introductory machine learning topics such as Decision Trees, Linear Regression, Logistic Regression, Naïve Bayes, Neural Networks, SVM, PCA, Kernel Methods, Ensemble Methods, Recommender Systems and more
   * Led recitation sessions, held office hours, proctored exams, and helped grade assignments and exams
 
 ### Applied Quantitative Social Science
