@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Eric Liang"
 title_separator          : "-"
 name                     : &name "Eric Liang"
-description              : &description "Carnegie Mellon 2022"
+description              : &description ""
 url                      : https://liangeric.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "liangeric/liangeric.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Eric Liang"
   avatar           : "Liangprofile_new.jpg"
-  bio              : "Carnegie Mellon 2022, MS in Machine Learning"
-  location         : "Pittsburgh, Pennsylvania"
+  bio              : "AI Research Scientist at Cisco"
+  location         : "San Francisco, California"
   employer         :
   pubmed           : 
   googlescholar    : 
