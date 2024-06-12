@@ -8,7 +8,7 @@ author_profile: true
 ------
 Teaching Assistant
 
-August 2022 - Present
+August 2022 - December 2022
 
 ### Introduction to Machine Learning (PhD)
 ------
