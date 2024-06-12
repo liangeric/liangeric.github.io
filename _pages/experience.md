@@ -7,6 +7,11 @@ author_profile: true
 
 ## Industry Experience
 ------
+### [Cisco](https://www.cisco.com)
+AI Research Scientist
+
+January 2023 - Present
+
 ### [Morgan Stanley](https://www.morganstanley.com)
 Quantitative Summer Analyst
 
@@ -34,7 +39,7 @@ May 2020 - August 2020
 ### Machine Learning Department, Carnegie Mellon University
 Research Assistant
 
-November 2021 - Present
+November 2021 - December 2022
   * Researched the impact of various design choices in ML pipelines that amplify or remedy bias and fairness on downstream inequities measured through notions of predictive performance and predictive disparity
   * Built a prototype testbed that displays the effects on bias from interactions between the construct and observed space
 
