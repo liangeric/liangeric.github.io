@@ -9,12 +9,16 @@ author_profile: true
 Teaching Assistant
 
 August 2022 - December 2022
+  * Recipient of the Machine Learning Department Teaching Assistant Award
+  * Taught Master and PhD students machine learning topics specifically related to structured prediction such as Markov random fields, Conditional random fields, Markov chain Monte Carlo and more
+  * Led recitation sessions, held office hours, proctored exams, and helped grade assignments and exams
 
 ### Introduction to Machine Learning (PhD)
 ------
 Teaching Assistant
 
 August 2021 - May 2022
+  * Recipient of the Machine Learning Department Teaching Assistant Award
   * Taught PhD students machine learning topics such as GANs, Deep-Q Learning, Duality, Rademacher Complexity, Reinforcement Learning, Kernel PCA, Random Forests, Graphical Models and more
   * Led recitation sessions, held office hours, proctored exams, and helped grade assignments and exams
 
