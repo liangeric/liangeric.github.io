@@ -12,8 +12,6 @@ Machine Learning Engineer
 
 July 2025 - Present
 
-## Industry Experience
-------
 ### [Cisco](https://www.cisco.com)
 Machine Learning Research Engineer
 
