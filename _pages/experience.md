@@ -7,10 +7,17 @@ author_profile: true
 
 ## Industry Experience
 ------
+### [Meta](https://www.meta.com)
+Machine Learning Engineer
+
+July 2025 - Present
+
+## Industry Experience
+------
 ### [Cisco](https://www.cisco.com)
 Machine Learning Research Engineer
 
-January 2023 - Present
+January 2023 - July 2025
 
 ### [Morgan Stanley](https://www.morganstanley.com)
 Quantitative Summer Analyst
