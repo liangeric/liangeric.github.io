@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to the front page of my website! I'm Eric Liang, an AI research scientist at Cisco. I previously received my master's in Machine Learning from Carnegie Mellon University. I'm always interested in meeting new people and learning new things, so feel free to reach out on [LinkedIn](https://linkedin.com/in/liangeric321)!
+Welcome to the front page of my website! I'm Eric Liang, a machine learning engineer at Meta. I previously worked at Cisco as a ML research engineer and received my master's in Machine Learning from Carnegie Mellon University. I'm always interested in meeting new people and learning new things, so feel free to reach out on [LinkedIn](https://linkedin.com/in/liangeric321)!
 
 Click here to learn more about my:
   * [Education and Coursework](https://liangeric.github.io/education/)
